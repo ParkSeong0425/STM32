@@ -1,0 +1,4 @@
+../Core/Src/led.c:15:6:ledOn	16	static
+../Core/Src/led.c:19:6:ledOff	16	static
+../Core/Src/led.c:24:6:ledLeftShift	24	static
+../Core/Src/led.c:38:6:ledRightShift	24	static

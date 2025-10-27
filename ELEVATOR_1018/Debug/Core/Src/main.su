@@ -1,0 +1,7 @@
+../Core/Src/main.c:72:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:89:10:millis	8	static
+../Core/Src/main.c:94:20:onButton	16	static
+../Core/Src/main.c:128:20:processMotorTick	16	static
+../Core/Src/main.c:170:5:main	16	static
+../Core/Src/main.c:222:6:SystemClock_Config	88	static
+../Core/Src/main.c:271:6:Error_Handler	4	static,ignoring_inline_asm

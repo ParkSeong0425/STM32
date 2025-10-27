@@ -1,0 +1,4 @@
+../Core/Src/fnd.c:20:13:seg_write	16	static
+../Core/Src/fnd.c:25:6:FND_AllOff	16	static
+../Core/Src/fnd.c:29:6:FND_WriteMask	24	static
+../Core/Src/fnd.c:33:6:FND_ShowDigit	16	static
